@@ -9,5 +9,5 @@ Please feel free to contact us if you have problems running our scripts at danie
 
 Reference:
 Article: "Quantification of intra-host genomic diversity of SARS-CoV-2 allows a high-resolution characterization of viral evolution and reveals functionally convergent variants". 
-Authors: Daniele Ramazzotti, Fabrizio Angaroni, Davide Maspero, Carlo Gambacorti-Passerini, Marco Antoniotti,  Alex Graudenzi*, Rocco Piazza*. 
+Authors: Daniele Ramazzotti, Fabrizio Angaroni, Davide Maspero, Carlo Gambacorti-Passerini, Marco Antoniotti,  Alex Graudenzi, Rocco Piazza. 
 Preprint: https://www.biorxiv.org/content/10.1101/2020.04.22.044404v2
