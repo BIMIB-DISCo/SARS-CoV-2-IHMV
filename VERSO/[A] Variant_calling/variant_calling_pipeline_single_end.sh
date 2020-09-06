@@ -1,20 +1,30 @@
 #
 
 ### variant_calling_pipeline_single_end.sh
+### Name of file says it all
+### Of course, this script assumes an underlying UN*X/Linux platform.
 
-#  REQUIRED EXTERNAL TOOLS:
-#    trimmomatic
-#    bwa
-#    samtools
-#    picard
-#    varscan
+### See the file LICENSE in the main directory for licensing
+### information.
 
-# SETTINGS
+###  REQUIRED EXTERNAL TOOLS:
+###    trimmomatic
+###    bwa
+###    samtools
+###    picard
+###    varscan
 
-# Directories.
+
+### SETTINGS
+
+## Directories.
 
 basedir="/analysis_directory/raw_data/"
 resultsdir="/analysis_directory/results/"
+
+
+## Derived directories.
+
 fastqTrimDir=${resultsdir}trimmed/
 bwaSamDir=${resultsdir}bwasam/
 bamDir=${resultsdir}bamDir/
