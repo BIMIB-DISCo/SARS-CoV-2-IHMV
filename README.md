@@ -4,7 +4,7 @@ SARS-CoV-2-IHMV
 
 The repository includes two main folders:
 
-*VERSO*
+## VERSO
 
 This folder includes the scripts to reproduce the analyses related to
 the article: *Quantification of intra-host genomic diversity of
@@ -16,7 +16,7 @@ Piazza. Preprint available at
 https://www.biorxiv.org/content/10.1101/2020.04.22.044404v2.
 
 
-*MUTATIONAL_SIGNATURES*
+## MUTATIONAL_SIGNATURES
 
 This folder includes the scripts to reproduce the analyses related to
 the article: *Mutational signatures and heterogeneous host response
@@ -24,3 +24,10 @@ revealed via large-scale characterization of SARS-CoV-2 genomic
 diversity*, by Alex Graudenzi, Davide Maspero, Fabrizio Angaroni,
 Rocco Piazza, Daniele Ramazzotti. Preprint available at :
 https://www.biorxiv.org/content/10.1101/2020.07.06.189944v1.
+
+
+### License
+
+The scripts and software contained in this repository are distributed
+under an Apache License.
+
