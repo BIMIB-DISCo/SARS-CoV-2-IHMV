@@ -1,27 +1,15 @@
 SARS-CoV-2-IHMV
 ===============
 
-The repository includes two main folders:
+The repository includes all the code to replicate the analyses presented in https://www.biorxiv.org/content/10.1101/2020.07.06.189944v1 
 
-## VERSO
+Specifically, we provide:
 
-This folder includes the scripts to reproduce the analyses related to
-the article: *Quantification of intra-host genomic diversity of
-SARS-CoV-2 allows a high-resolution characterization of viral
-evolution and reveals functionally convergent variants* by Daniele
-Ramazzotti, Fabrizio Angaroni, Davide Maspero, Carlo
-Gambacorti-Passerini, Marco Antoniotti, Alex Graudenzi, Rocco
-Piazza. Preprint available at
-https://www.biorxiv.org/content/10.1101/2020.04.22.044404v2.
-
-## MUTATIONAL_SIGNATURES
-
-This folder includes the scripts to reproduce the analyses related to
-the article: *Mutational signatures and heterogeneous host response
-revealed via large-scale characterization of SARS-CoV-2 genomic
-diversity*, by Alex Graudenzi, Davide Maspero, Fabrizio Angaroni,
-Rocco Piazza, Daniele Ramazzotti. Preprint available at :
-https://www.biorxiv.org/content/10.1101/2020.07.06.189944v1.
+step0_data_preprocessing, to perform variant calling and data preprocessing; 
+step1_signatures_discovery_training_set, to perform signatures discovery on the training dataset from NCBI BioProject PRJNA645906; 
+step2_signatures_validation_testing_set, to perform signatures assignments on the testing datasets from NCBI BioProjects PRJNA625551, PRJNA633948, PRJNA636748 and PRJNA647529; 
+step3_signatures_bootstrap, to perform assessment of signatures significance by bootstrap both on training dataset and testing datasets; 
+step4_MrBayes_training_set, to perform phylogenetic inference by MyBayes on training dataset. 
 
 ### License
 
