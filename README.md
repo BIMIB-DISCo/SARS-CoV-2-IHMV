@@ -13,7 +13,7 @@ Specifically, the code is organized in 5 directories:
 
 *step3_signatures_bootstrap*, to perform assessment of signatures significance by bootstrap both on training dataset and testing datasets; 
 
-*step4_MrBayes_training_set*, to perform phylogenetic inference by MyBayes on training dataset. 
+*step4_MrBayes_training_set*, to perform phylogenetic inference by MrBayes on training dataset. 
 
 ### License
 
