@@ -1,6 +1,5 @@
 SARS-CoV-2-IHMV
-=================
-
+===============
 
 The repository includes two main folders:
 
@@ -15,7 +14,6 @@ Gambacorti-Passerini, Marco Antoniotti, Alex Graudenzi, Rocco
 Piazza. Preprint available at
 https://www.biorxiv.org/content/10.1101/2020.04.22.044404v2.
 
-
 ## MUTATIONAL_SIGNATURES
 
 This folder includes the scripts to reproduce the analyses related to
@@ -25,9 +23,6 @@ diversity*, by Alex Graudenzi, Davide Maspero, Fabrizio Angaroni,
 Rocco Piazza, Daniele Ramazzotti. Preprint available at :
 https://www.biorxiv.org/content/10.1101/2020.07.06.189944v1.
 
-
 ### License
 
-The scripts and software contained in this repository are distributed
-under an Apache License.
-
+All the software contained in this repository is distributed under an Apache License. 
