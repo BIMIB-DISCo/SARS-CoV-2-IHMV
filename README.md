@@ -13,4 +13,4 @@ step4_MrBayes_training_set, to perform phylogenetic inference by MyBayes on trai
 
 ### License
 
-All the software contained in this repository is distributed under an Apache License. 
+All the software contained in this repository is distributed under Apache License. 
