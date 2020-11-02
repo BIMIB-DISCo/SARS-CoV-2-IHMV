@@ -1,9 +1,9 @@
 SARS-CoV-2-IHMV
 ===============
 
-The repository includes all the code to replicate the analyses presented in https://www.biorxiv.org/content/10.1101/2020.07.06.189944v1 
+In this repository we provide all the code to replicate the analyses presented in https://www.biorxiv.org/content/10.1101/2020.07.06.189944v1 
 
-Specifically, we provide:
+Specifically, the code is organized in 5 directories
 
 step0_data_preprocessing, to perform variant calling and data preprocessing; 
 step1_signatures_discovery_training_set, to perform signatures discovery on the training dataset from NCBI BioProject PRJNA645906; 
