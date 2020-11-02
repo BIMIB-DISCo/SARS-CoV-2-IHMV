@@ -1,0 +1,6 @@
+execute variants.txt
+lset nst=1
+showmodel
+mcmc ngen=10000000
+sump
+sumt
