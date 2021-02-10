@@ -1,7 +1,7 @@
 SARS-CoV-2-IHMV
 ===============
 
-In this repository we provide all the code to replicate the analyses presented in https://www.biorxiv.org/content/10.1101/2020.07.06.189944v2 
+In this repository we provide all the code to replicate the analyses presented in https://www.sciencedirect.com/science/article/pii/S2589004221000845 
 
 Specifically, the code is organized in 5 directories: 
 
