@@ -17,6 +17,8 @@ Specifically, the code is organized in 5 directories:
 
 *step5_MrBayes_training_set*, to perform phylogenetic inference by MrBayes on training dataset. 
 
+*figures*, to generate the figures included in the manuscript. To generate them, just move to this directory and run or source the 'generate_plots.R' script.
+
 ### License
 
 All the software contained in this repository is distributed under Apache License. 
